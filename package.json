@@ -2,6 +2,7 @@
   "name": "bootstrap-express-boilerplate",
   "version": "1.0.0",
   "description": "bootstrap-express-boilerplate",
+  "main" : "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
