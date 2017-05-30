@@ -1,0 +1,9 @@
+{
+  "name": "bootstrap-express-boilerplate",
+  "version": "1.0.0",
+  "description": "bootstrap-express-boilerplate",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
+
